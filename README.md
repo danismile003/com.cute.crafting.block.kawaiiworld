@@ -1,0 +1,1 @@
+# com.cute.crafting.block.kawaiiworld
